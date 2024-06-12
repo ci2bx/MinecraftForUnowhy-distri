@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///C:/Users/charl/Documents/GitHub/MinecraftForUnowhy-distri/schemas/DistroMetaSchema.schema.json",
+  "$schema": "file:///C:/Users/charl/Documents/LunexDistri/schemas/DistroMetaSchema.schema.json",
   "meta": {
     "rss": "<LINK TO RSS FEED>",
     "discord": {

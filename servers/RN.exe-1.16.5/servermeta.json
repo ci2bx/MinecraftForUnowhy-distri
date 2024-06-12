@@ -1,0 +1,16 @@
+{
+  "$schema": "file:///C:/Users/charl/Documents/Github/MinecraftForUnowhy-distri/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "RN.exe",
+    "description": "Serveur officiel du rassemblement national",
+    "icon": "",
+    "address": "78.196.10.78",
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "36.2.34"
+  },
+  "untrackedFiles": []
+}
